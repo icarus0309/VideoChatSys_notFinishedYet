@@ -1,0 +1,15 @@
+INPUT(
+./debug\ChatRoom.o
+./debug\ChatThread.o
+./debug\DialogCreLive.o
+./debug\HomeThread.o
+./debug\Live.o
+./debug\Pack.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\moc_ChatRoom.o
+./debug\moc_DialogCreLive.o
+./debug\moc_HomeThread.o
+./debug\moc_Live.o
+./debug\moc_mainwindow.o
+);

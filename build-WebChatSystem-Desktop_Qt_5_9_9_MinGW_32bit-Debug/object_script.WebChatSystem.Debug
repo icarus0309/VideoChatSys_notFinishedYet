@@ -1,0 +1,16 @@
+INPUT(
+./debug\ClientSocket.o
+./debug\CusDao.o
+./debug\CusDaoImp.o
+./debug\Custom.o
+./debug\DBHelper.o
+./debug\Pack.o
+./debug\SocketManager.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\newThread.o
+./debug\moc_ClientSocket.o
+./debug\moc_SocketManager.o
+./debug\moc_mainwindow.o
+./debug\moc_newThread.o
+);

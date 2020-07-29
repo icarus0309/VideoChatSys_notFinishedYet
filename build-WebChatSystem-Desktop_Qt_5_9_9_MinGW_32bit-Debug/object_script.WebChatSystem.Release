@@ -1,0 +1,16 @@
+INPUT(
+./release\ClientSocket.o
+./release\CusDao.o
+./release\CusDaoImp.o
+./release\Custom.o
+./release\DBHelper.o
+./release\Pack.o
+./release\SocketManager.o
+./release\main.o
+./release\mainwindow.o
+./release\newThread.o
+./release\moc_ClientSocket.o
+./release\moc_SocketManager.o
+./release\moc_mainwindow.o
+./release\moc_newThread.o
+);
